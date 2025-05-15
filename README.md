@@ -16,7 +16,7 @@
 
 ## 📁 Folder Structure
 
-bash
+
 traffic-eye/
 ├── assets/               # Visuals for README/demo
 ├── data/                 # Input videos/images and vehicle registry CSV
